@@ -16,7 +16,7 @@ local events for operator review. Optional face matching is advisory only.
 - Simulation and private runtime data are excluded from the production Git
   package.
 - Private GitHub repository: https://github.com/aman2004-cymk/person-tracking-security-camera
-- Published branch: `master`; latest published commit: `4ffc6b7`.
+- Published branch: `master`; initial production package commit: `4ffc6b7`.
 
 ## Quick setup
 
