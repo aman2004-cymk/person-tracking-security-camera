@@ -1,0 +1,42 @@
+# Private biometric enrollment data and generated attendance records
+attendance_data/
+attendance_model/
+attendance/
+alerts/
+simulation_evidence/
+sil_twin_*/
+sil_attendance.csv
+logs/
+
+# Development-only simulator and replay references
+full_system_simulator.py
+esp32_safety_simulator.py
+simulated_hardware_bridge.py
+sil_digital_twin.py
+PHASE_PLAN.md
+CHANGELOG.md
+firmware/wokwi_esp32_twin/
+test_assets/
+tools/
+tests/test_esp32_safety_simulator.py
+tests/test_phase1_simulation.py
+tests/test_simulated_hardware_bridge.py
+tests/test_virtual_pan_tilt_camera.py
+
+# Local models and machine-specific / experimental files
+yolo11n.pt
+authorized_people.csv
+tempCodeRunnerFile.py
+.vscode/
+live_glimbal_2d.py
+live_vision_gimbal_simulator.py
+live_vision_virtual_camera_gimbal.py
+live_vision_virtual_camera_gimbal_synced.py
+person_tracking.py
+webcam_test.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
